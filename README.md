@@ -16,7 +16,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQL Injectiuon (SQLi)
+![Alt Text](https://github.com/rlh2ph/CodePathWeek8/blob/master/SQLInjection.gif)
 
 Vulnerability #2: __________________
 
@@ -24,13 +25,15 @@ Vulnerability #2: __________________
 ## Green
 
 Vulnerability #1: Username Enumeration
+![Alt Text](https://github.com/rlh2ph/CodePathWeek8/blob/master/UsernameEnumeration.gif)
 
 Vulnerability #2: __________________
 
 
 ## Red
 
-Vulnerability #1: Insecure Direct Object Reference
+Vulnerability #1: Insecure Direct Object Reference (IDOR)
+![Alt Text](https://github.com/rlh2ph/CodePathWeek8/blob/master/IDOR.gif)
 
 Vulnerability #2: __________________
 
