@@ -27,7 +27,8 @@ Vulnerability #2: __________________
 Vulnerability #1: Username Enumeration
 ![Alt Text](https://github.com/rlh2ph/CodePathWeek8/blob/master/UsernameEnumeration.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross Site Scripting (XSS)
+![Alt Text](https://github.com/rlh2ph/CodePathWeek8/blob/master/XSS.gif)
 
 
 ## Red
