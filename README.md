@@ -43,7 +43,8 @@ Vulnerability #1: Insecure Direct Object Reference (IDOR)
   - The url for the red site allows for the id parameter to be edited to pass in other ids that are not visible sales people
 
 Vulnerability #2: Cross Site Request Forgery (CSRF)
-  - By process of elimination, the red site is vulnerable to CSRF
+![Alt Text](https://github.com/rlh2ph/CodePathWeek8/blob/master/CSRF.gif)
+  - By process of elimination, the red site is vulnerable to CSRF. Also, the site is vulnerable in the way that it allows an attacker to intercept a post request and change the values and then forward the request along.
 
 
 ## Notes
