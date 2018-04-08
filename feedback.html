@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Log in</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Log in">
+    <link rel="stylesheet" media="all" href="/red/public/styles.css">
+  </head>
+  <body>
+<div id="menu">
+  <ul>
+    <li><a href="../index.php">Public Site</a></li>
+  </ul>
+</div>
+
+<div id="main-content">
+  <h1>Log in</h1>
+
+
+  <form action="login.php" method="post">
+    <input type="hidden" name="csrf_token" value="8a66cc18168a90826dedc29398f54889" />    Username:<br />
+    <input type="text" name="username" value="" /><br />
+    Password:<br />
+    <input type="password" name="password" value="" /><br />
+    <input type="submit" name="submit" value="Submit"  />
+  </form>
+
+</div>
+
+  </body>
+</html>
